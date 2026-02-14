@@ -1,3 +1,4 @@
+i am having issues os only usd when you know what's are doing 
 # Testing-ai-locally-
 This is testing universal desktop ai
 # Local AI Assistant (Universal Offline)
