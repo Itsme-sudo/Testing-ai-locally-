@@ -19,4 +19,5 @@ This is testing universal desktop ai
 1. Run setup script:
    ```bash
    bash setup.sh
+   bash setup_termux.sh
    
